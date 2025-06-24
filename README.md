@@ -22,12 +22,17 @@ Below is the communication between components and dependency. This dependency co
 * We can use Cache servers like Redis to access the data with lightening speed.
 * We can use MQ Servers like RabbitMQ, ActiveMQ, Kafka, etc for asynchronous communication.!
 ### roboshop homepage:
-(![alt text]<Screenshot 2025-06-24 141957.png>)
 ### roboshop login and signup page:
-(![alt text]<Screenshot 2025-06-24 142120.png>
+![alt text](Screenshot 2025-06-24 141957.png)
+
 ### roboshop cart:
-(![alt text]<Screenshot 2025-06-24 142354.png>
-### roboshop shippping:
-[!alt text]<Screenshot 2025-06-24 142505.png>
-### roboshop order succesfull:
-![alt text]<Screenshot 2025-06-24 142537.png>
+![alt text](Screenshot 2025-06-24 142120.png)
+
+### roboshop shipping:
+![alt text](Screenshot 2025-06-24 142354.png)
+
+### roboshop order successful:
+![alt text](Screenshot 2025-06-24 142505.png)
+
+### roboshop confirmation screen:
+![alt text](Screenshot 2025-06-24 142537.png)
