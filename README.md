@@ -28,6 +28,6 @@ Below is the communication between components and dependency. This dependency co
 ### roboshop cart:
 ![alt text](<Screenshot 2025-06-24 142354.png>)
 ### roboshop shippping:
-[!alt text](<Screenshot 2025-06-24 142505.png>)
+![alt text](<Screenshot 2025-06-24 142505.png>)
 ### roboshop order succesfull:
 ![alt text](<Screenshot 2025-06-24 142537.png>)
